@@ -1,0 +1,84 @@
+baseurl = "https://username.github.io"
+DefaultContentLanguage = "en"
+title = "My Beer"
+theme = "beautifulhugo"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[Params]
+  # Examples of different configs are found in https://vincenttam.gitlab.io/
+  # homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  subtitle = "Notes and thoughts on making my own beer"
+  mainSections = ["post","recipes", "page"] # This controls what is shown in the main page
+  logo = "img/beer.png" # Expecting square dimensions
+  favicon = "img/beer-favicon.png"
+  dateFormat = "02/01/2006"
+  commit = false # Shows the commit in the published website
+  rss = false
+  comments = true
+  readingTime = true
+  wordCount = false
+  useHLJS = true # Highlight
+  delayDisqus = true
+  showRelatedPosts = true
+#  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+#[[Params.bigimg]]
+#  src = "img/triangle.jpg"
+#  desc = "Triangle"
+#[[Params.bigimg]]
+#  src = "img/sphere.jpg"
+#  desc = "Sphere"
+#  # position: see values of CSS background-position.
+#  position = "center top"
+#[[Params.bigimg]]
+#  src = "img/hexagon.jpg"
+#  desc = "Hexagon"
+
+[Author]
+  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+  name = "Juan Castrillon"
+  email = "jpcr3108@gmail.com"
+  github = "juan-castrillon"
+
+[[menu.main]]
+    name = "Process"
+    url = "page/process/"
+    weight = 1
+
+[[menu.main]]
+    name = "Recipes"
+    url = "recipes/"
+    weight = 2
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3
+
+[[menu.main]]
+    identifier = "others"
+    name = "Others"
+    weight = 4
+
+[[menu.main]]
+    parent = "others"
+    name = "Buying Stuff"
+    url = "page/buying"
+    weight = 1
+
+[[menu.main]]
+    parent = "others"
+    name = "Calculators"
+    url = "page/calculators"
+    weight = 2
+
+[[menu.main]]
+    parent = "others"
+    name = "Learning"
+    url = "learn"
+    weight = 3
+
