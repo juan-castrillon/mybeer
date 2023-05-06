@@ -15,6 +15,7 @@ pygmentsCodefencesGuessSyntax = true
   logo = "img/beer.png" # Expecting square dimensions
   favicon = "img/beer-favicon.png"
   dateFormat = "02/01/2006"
+  custom_css = ["css/custom.css"]
   commit = false # Shows the commit in the published website
   rss = false
   comments = true
