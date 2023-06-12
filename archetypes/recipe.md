@@ -96,3 +96,5 @@ tags: ["recipes"]
 
 - **Method:** 
 - **Amount:**
+
+# Notes

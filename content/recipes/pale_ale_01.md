@@ -21,18 +21,18 @@ tags: ["recipes"]
 
 ## Malts
 
-| Malt          | Amount | Percent |
-| ------------- | ------ | ------- |
-| Pale Ale Malz | kg     | 94%     |
-| CaraHell      | kg     | 3%      |
-| Sauermalz     | kg     | 3%      |
+| Malt          | Amount    | Percent |
+| ------------- | --------- | ------- |
+| Pale Ale Malz | 2.115 kg  | 94%     |
+| CaraHell      | 0.0675 kg | 3%      |
+| Sauermalz     | 0.0675 kg | 3%      |
 
 ## Hops
 
 | Hop                | Amount | Time   | Alpha |
 | ------------------ | ------ | ------ | ----- |
-| Easts Kent Golding | g      | 85 min | 5%    |
-| Easts Kent Golding | g      | 5 min  | 5%    |
+| Easts Kent Golding | 15.75g | 85 min | 5%    |
+| Easts Kent Golding | 15.75g | 5 min  | 5%    |
 
 ## Yeast (Hefe)
 
@@ -79,10 +79,10 @@ Cuando estaba volviendose seco, agregue todo el Nachguss de una vez. En retrospe
 - **Duration:** 90 min
 
 - **Hops:**
-    | Hop | Amount  | Time   | Alpha |
-    | --- | ------- | ------ | ----- |
-    | EKG | g (50%) | 85 min | 5%    |
-    | EKG | g (50%) | 5 min  | 5%    |
+    | Hop | Amount       | Time   | Alpha |
+    | --- | ------------ | ------ | ----- |
+    | EKG | 15.75g (50%) | 85 min | 5%    |
+    | EKG | 15.75g (50%) | 5 min  | 5%    |
 
 Los 85 minutos empezaron cuando la mezcla empezo a hervir. 
 
