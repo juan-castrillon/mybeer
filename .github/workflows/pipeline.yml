@@ -18,7 +18,7 @@ jobs:
       - name: Build
         run: hugo --minify --debug
       - name: List files
-        run: ls -l ./public
+        run: ls -l ./public/css
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
