@@ -1,5 +1,5 @@
 baseurl = "https://juan-castrillon.github.io/mybeer"
-canonifyURLs = true
+
 DefaultContentLanguage = "en"
 title = "My Beer"
 theme = "beautifulhugo"
