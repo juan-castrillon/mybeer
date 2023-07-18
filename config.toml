@@ -1,4 +1,4 @@
-baseurl = "https://username.github.io"
+baseurl = "https://juan-castrillon.github.io/my-beer"
 DefaultContentLanguage = "en"
 title = "My Beer"
 theme = "beautifulhugo"
