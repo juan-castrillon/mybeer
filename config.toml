@@ -1,4 +1,5 @@
 baseurl = "https://juan-castrillon.github.io/mybeer"
+canonifyURLs = true
 DefaultContentLanguage = "en"
 title = "My Beer"
 theme = "beautifulhugo"
@@ -8,8 +9,6 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [Params]
-  # Examples of different configs are found in https://vincenttam.gitlab.io/
-  # homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "Notes and thoughts on making my own beer"
   mainSections = ["post","recipes", "page"] # This controls what is shown in the main page
   logo = "img/beer.png" # Expecting square dimensions
@@ -24,20 +23,6 @@ pygmentsCodefencesGuessSyntax = true
   useHLJS = true # Highlight
   delayDisqus = true
   showRelatedPosts = true
-#  hideAuthor = true
-#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
-
-#[[Params.bigimg]]
-#  src = "img/triangle.jpg"
-#  desc = "Triangle"
-#[[Params.bigimg]]
-#  src = "img/sphere.jpg"
-#  desc = "Sphere"
-#  # position: see values of CSS background-position.
-#  position = "center top"
-#[[Params.bigimg]]
-#  src = "img/hexagon.jpg"
-#  desc = "Hexagon"
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
