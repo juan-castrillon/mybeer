@@ -8,6 +8,19 @@ image: ""
 tags: []
 ---
 
+# Statistics
+
+Estadisticas promedio del proceso, obtenidas de las recetas. Pueden ser usadas para escalar futuras recetas.
+
+| Statistic            | Value    |
+| -------------------- | -------- |
+| Sudhausausbeute      | 47%      |
+| Evaporacion          | 16.66%/h |
+| Perdida por filtado  | 16.66%   |
+| Perdida por levadura | 1.3L     |
+|                      |
+
+
 A continuacion detallo mi proceso de elaboracion de cerveza. Este proceso es el mas actual en base a mis notas y mejoras que he ido haciendo en el tiempo. 
 
 # 1. Maischen
@@ -54,9 +67,11 @@ A continuacion detallo mi proceso de elaboracion de cerveza. Este proceso es el 
 
 4. Despues de apagar, hago un remolino con la cuchara para juntar todo el hopfen en el centro.
 
-5. Posiciono el filtro de monofilamento en la llave del einkocher y el balde debajo de la llave. Abro la llave y dejo que se filtre todo el contenido del einkocher al balde.
+5. Dejar reposar el liquido 10 min para que se asiente todo el hopfen.
 
-6. Para ayudar a que la bola creada por el remolino no se vaya, puedo usar un colador para que se quede en el einkocher. Un libro debajo del einkocher ayuda a que la mayoria del liquido se vaya al balde.
+6. Posiciono el filtro de monofilamento en la llave del einkocher y el balde debajo de la llave. Abro la llave y dejo que se filtre todo el contenido del einkocher al balde.
+
+7. Para ayudar a que la bola creada por el remolino no se vaya, puedo usar un colador para que se quede en el einkocher. Un libro debajo del einkocher ayuda a que la mayoria del liquido se vaya al balde.
 
 # 4. Enfriar
 
@@ -82,6 +97,26 @@ A continuacion detallo mi proceso de elaboracion de cerveza. Este proceso es el 
 
 1. Preparar las botellas. Limpiarlas.
 
-2. Preparar la solucion de azucar. 
+2. Preparar la solucion de azucar. Para esto usar calculadoras de internet y disolver la cantidad de azucar indicada en agua caliente. Para calcular el volumen, se puede hacer un promedio de los volumenes cerca a 0.5L mas cercanos. Por ejemplo, con 11.7 litros, asumiendo que 1L se pierde en levadura, se pueden calcular el azucar para 10 y 10.5 litros y usar el promedio de los dos.
 
-3. WIP
+3. Dejar enfriar la solucion de azucar hasta que este a una temperatura similar a la de fermentacion.
+
+4. Limpiar el bierheber, las mangueras, el llenador, el filtro y el balde. 
+
+5. Poner el llenador en la llave del balde de llenado. 
+
+6. Posiciionar el balde de fermentacion en un lugar mas alto que el balde de llenado. Poner el bierheber en el balde de fermentacion y el otro extremo en el filtro. Poner el filtro en el balde de llenado con la solucion de azucar.
+
+7. Empezar el bierheber y dejar que la cerveza llene el balde de llenado.
+
+8. Una vez terminado, tapar el balde de llenado y revolver un poco
+
+9. Usando una linterna, poner las botellas en el llenador y llenarlas de manera que quede un poco de espacio para el aire.
+
+10. Cerrar las botellas y limpiarlas.
+
+11. Dejar las botellas a la temperatura de fermentacion por al menos 1 semana.
+
+# 8. Madurar
+
+1. Pasar las botellas a un lugar mas frio (6 °C) y dejarlas madurar por minimo 2 semanas (normalmente 4 semanas).
