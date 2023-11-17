@@ -116,7 +116,7 @@ Usando `brewday` calcule que necesitaba 4.2L de agua para llegar a la densidad d
 - **Amount:** 10.4L
 - **Duration in warm place:** 7 days at 21 °C
 - **Storing Temperature:** 6 °C
-- **Duration until ready to drink:** days
+- **Duration until ready to drink:** 28 days
 
 #### Karbonisierung
 
