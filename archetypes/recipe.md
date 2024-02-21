@@ -98,3 +98,16 @@ tags: ["recipes"]
 - **Amount:**
 
 # Notes
+
+
+# Statistics
+
+- **Sudhausausbeute:** %
+
+- **Evaporation Loss:** %/h
+- **Filtering Loss:** %
+- **Yeast Loss:** % (L)
+
+- **Yeast EVG:** %
+
+- **Cooking Duration:** 

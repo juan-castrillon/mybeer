@@ -12,13 +12,17 @@ tags: []
 
 Estadisticas promedio del proceso, obtenidas de las recetas. Pueden ser usadas para escalar futuras recetas.
 
-| Statistic            | Value    |
-| -------------------- | -------- |
-| Sudhausausbeute      | 47%      |
-| Evaporacion          | 16.66%/h |
-| Perdida por filtado  | 16.66%   |
-| Perdida por levadura | 1.3L     |
-|                      |
+| Statistic            | Value   |
+| -------------------- | ------- |
+| Sudhausausbeute      | 50%     |
+| Evaporacion          | 14.6%/h |
+| Perdida por filtado  | 11.6%   |
+| Perdida por levadura | 1.26L   |
+
+<!--Sudhaus:  46 + 48 + 57 / 3 -->
+<!-- Evaporacion: 13.85 + 19.48 + 10.45 / 3 -->
+<!-- Filtrado: 9  + 14.2 / 2 -->
+<!-- Levadura: 1 + 1.6 + 1.2/ 3 -->
 
 
 A continuacion detallo mi proceso de elaboracion de cerveza. Este proceso es el mas actual en base a mis notas y mejoras que he ido haciendo en el tiempo. 

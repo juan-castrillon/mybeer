@@ -112,10 +112,10 @@ Usando `brewday` calcule que necesitaba 4.3L de agua para llegar a la densidad d
 ### Secondary Fermentation (Nachgärung)
 
 - **Start:** 25.10.2023
-- **Amount:** 10L
+- **Amount:** 10.5L
 - **Duration in warm place:** 5 days at 19°C
 - **Storing Temperature:** 5 °C
-- **Duration until ready to drink:** days
+- **Duration until ready to drink:** 28 days
 
 #### Karbonisierung
 
@@ -136,7 +136,7 @@ Usando `brewday` calcule que necesitaba 4.3L de agua para llegar a la densidad d
 
 - **Evaporation Loss:** 19.48%/h
 - **Filtering Loss:** 9%
-- **Yeast Loss:** 17.35% (2.1L)
+- **Yeast Loss:** 1.6L
 
 - **Yeast EVG:** 59%
 
