@@ -21,11 +21,13 @@ tags: ["recipes"]
 
 ## Malts
 
-| Malt            | Amount | Percent |
-| --------------- | ------ | ------- |
-| Weizenmalz Hell | 1.9kg  |         |
-| Wiener Malz     | 0.95kg |         |
-M
+| Malt                 | Amount | Percent |
+| -------------------- | ------ | ------- |
+| Weizenmalz Hell      | 1.9kg  | 44.4%   |
+| Wiener Malz          | 0.95kg | 22.2%   |
+| Münchner Malz Typ II | 0.64kg | 15%     |
+| Pilsner Malz         | 0.64kg | 15%     |
+| Carawheat            | 0.15kg | 3.5%    |
 
 ## Hops
 
