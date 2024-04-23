@@ -169,6 +169,6 @@ La otra clave fue abrir la llave muy poco de manera que el grano siempre tenga d
 
 # Etiqueta
 
-![label](/img/recipes/label_schwigi_bier.png)
+![label_schwigi_bier](https://github.com/juan-castrillon/mybeer/assets/64461123/c5d39c38-6db6-4840-b02c-50ab52674990)
 
 - Prompt: Design a vintage style label for a homebrew beer called Schwigi Bier, reminiscent of old pharmaceutical products and tonics, featuring sage flowers and rosemary plants prominently with a landscape of the alps in the center and absolutely no bottles
