@@ -2,7 +2,7 @@
 title: "Panela Lulo Saison"
 date: 2024-07-23T21:13:01+02:00
 subtitle: ""
-image: "img/recipes/pl_saison.jpg"
+image: "img/recipes/lulo_saison.jpg"
 tags: ["recipes"]
 ---
 
@@ -213,6 +213,11 @@ V_L = 0.9897980 * h_{cm}
 $$
 
 - EL proceso funciono lo mejor hasta ahora, pero la cantidad de cerveza hizo que los procesos de cambiar de balde fueran complicados y que perdiera mas würze con la levadura (No cabía en el otro balde)
+
+- La cerveza final me dejo las siguientes impresiones:
+  - Olor: Bastante agradable, frutal y un poco dulce, se siente mango, papaya, toronja y el lulo (especialmente después de algunos tragos). También se siente un poquito de especia por la levadura
+  - Color: Color dorado/amber claro muy lindo y bastante claridad en la cerveza. Espuma estable de poros pequeños
+  - Sabor: Predominantemente seco con notas frutales ligeras, acidez significativa del lulo y sabor de lulo (en nachtrunk) y sabor marcado de la levadura belga que juega muy bien con el ácido para hacer la cerveza bastante refrescante pero con cuerpo. No note mucha influencia de la panela en el sabor final, aunque probablemente afecta el color ámber
 
 
 # Statistics
