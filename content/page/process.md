@@ -12,17 +12,18 @@ tags: []
 
 Estadisticas promedio del proceso, obtenidas de las recetas. Pueden ser usadas para escalar futuras recetas.
 
-| Statistic            | Value   |
-| -------------------- | ------- |
-| Sudhausausbeute      | 60%     |
-| Evaporacion          | 19.5%/h |
-| Perdida por filtado  | 10.9%   |
-| Perdida por levadura | 10.8%   |
+| Statistic            | Value         |
+| -------------------- | ------------- |
+| Sudhausausbeute      | 64%           |
+| Evaporacion          | 21.6%/h       |
+| Perdida por filtado  | 10.8%         |
+| Perdida por levadura | 10.1% (1.24L) |
 
-<!--Sudhaus:  48 + 57 +62 +72/ 4 -->
-<!-- Evaporacion: 16.66 + 19.48 + 10.45 + 25.19 + 28.79 + 16.4 / 6 -->
-<!-- Filtrado: 9  + 14.2 + 11.5 + 9 / 4 -->
-<!-- Levadura: 11.1 (dubbel) + 13.2 (stout) + 10 (weizenbock) + 11.3 (blond) + 8.6 (lulo)/ 5 -->
+<!--Sudhaus:  48 + 57 +62 +72 + 71.4 + 72.1/ 6 -->
+<!-- Evaporacion: 16.66 + 19.48 + 10.45 + 25.19 + 28.79 + 16.4 +23 + 33.05 / 8 -->
+<!-- Filtrado: 9  + 14.2 + 11.5 + 9 + 14.3 + 6.8 / 6 -->
+<!-- Levadura: 11.1 (dubbel) + 13.2 (stout) + 10 (weizenbock) + 11.3 (blond) + 8.6 (lulo) + 6.2 (tripel) + 10.6 (nepal)/ 7 -->
+<!-- Levadura (L): 1.3 (dubbel) + 1.6 (stout) + 1.2 (weizenbock) + 1 (blond) + 1.6(lulo) + 0.9 (tripel) + 1.08 (nepal)/ 7 -->
 
 
 A continuacion detallo mi proceso de elaboracion de cerveza. Este proceso es el mas actual en base a mis notas y mejoras que he ido haciendo en el tiempo. 
