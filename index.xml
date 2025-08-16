@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>https://juan-castrillon.github.io/mybeer/</link><description>Recent content on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 10 Aug 2025 20:51:23 +0200</lastBuildDate><atom:link href="https://juan-castrillon.github.io/mybeer/index.xml" rel="self" type="application/rss+xml"/><item><title>Travel Series: Nepal (Black Tea Pale Ale)</title><link>https://juan-castrillon.github.io/mybeer/recipes/nepal/</link><pubDate>Sun, 10 Aug 2025 20:51:23 +0200</pubDate><guid>https://juan-castrillon.github.io/mybeer/recipes/nepal/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title/><link>https://beer.blog.castrillon.ch/</link><description>Recent content on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 10 Aug 2025 20:51:23 +0200</lastBuildDate><atom:link href="https://beer.blog.castrillon.ch/index.xml" rel="self" type="application/rss+xml"/><item><title>Travel Series: Nepal (Black Tea Pale Ale)</title><link>https://beer.blog.castrillon.ch/recipes/nepal/</link><pubDate>Sun, 10 Aug 2025 20:51:23 +0200</pubDate><guid>https://beer.blog.castrillon.ch/recipes/nepal/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
 &lt;ul>
 &lt;li>&lt;strong>Style:&lt;/strong> English Pale Ale&lt;/li>
 &lt;li>&lt;strong>Target Volume:&lt;/strong> 8L&lt;/li>
@@ -173,7 +173,7 @@
 &lt;h2 id="maischen">Maischen&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 55.6°C (Baja a 53.3°C cuando entra la malta)&lt;/p></description></item><item><title>Bocadillo Tripel</title><link>https://juan-castrillon.github.io/mybeer/recipes/tripel/</link><pubDate>Thu, 29 Aug 2024 18:20:01 +0200</pubDate><guid>https://juan-castrillon.github.io/mybeer/recipes/tripel/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
+&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 55.6°C (Baja a 53.3°C cuando entra la malta)&lt;/p></description></item><item><title>Bocadillo Tripel</title><link>https://beer.blog.castrillon.ch/recipes/tripel/</link><pubDate>Thu, 29 Aug 2024 18:20:01 +0200</pubDate><guid>https://beer.blog.castrillon.ch/recipes/tripel/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
 &lt;ul>
 &lt;li>&lt;strong>Style:&lt;/strong> Belgian Tripel&lt;/li>
 &lt;li>&lt;strong>Target Volume:&lt;/strong> 15L&lt;/li>
@@ -303,7 +303,7 @@
 &lt;h2 id="maischen">Maischen&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 55°C (Baja a 53°C cuando entra el grano)&lt;/p></description></item><item><title>Panela Lulo Saison</title><link>https://juan-castrillon.github.io/mybeer/recipes/fruit_saison/</link><pubDate>Tue, 23 Jul 2024 21:13:01 +0200</pubDate><guid>https://juan-castrillon.github.io/mybeer/recipes/fruit_saison/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
+&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 55°C (Baja a 53°C cuando entra el grano)&lt;/p></description></item><item><title>Panela Lulo Saison</title><link>https://beer.blog.castrillon.ch/recipes/fruit_saison/</link><pubDate>Tue, 23 Jul 2024 21:13:01 +0200</pubDate><guid>https://beer.blog.castrillon.ch/recipes/fruit_saison/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
 &lt;ul>
 &lt;li>&lt;strong>Style:&lt;/strong> Belgian Saison&lt;/li>
 &lt;li>&lt;strong>Target Volume:&lt;/strong> 15L&lt;/li>
@@ -352,7 +352,7 @@
 &lt;li>Asi mismo, tome de referencia la receta de Raspberry Saison del libro Wild Brews&lt;/li>
 &lt;li>Por ultimo, tome en cuenta la disponibilidad en mi surtidor de materia prima (braumischung)&lt;/li>
 &lt;/ul>
-&lt;p>Con esto en mente, mis justificaciones fueron:&lt;/p></description></item><item><title>Estimating potential SG of ingredient</title><link>https://juan-castrillon.github.io/mybeer/howto/potential/</link><pubDate>Tue, 18 Jun 2024 22:49:35 +0200</pubDate><guid>https://juan-castrillon.github.io/mybeer/howto/potential/</guid><description>&lt;p>Para estimar el potential SG de cualquier ingrediente, se puede hacer el siguiente experimento:&lt;/p>
+&lt;p>Con esto en mente, mis justificaciones fueron:&lt;/p></description></item><item><title>Estimating potential SG of ingredient</title><link>https://beer.blog.castrillon.ch/howto/potential/</link><pubDate>Tue, 18 Jun 2024 22:49:35 +0200</pubDate><guid>https://beer.blog.castrillon.ch/howto/potential/</guid><description>&lt;p>Para estimar el potential SG de cualquier ingrediente, se puede hacer el siguiente experimento:&lt;/p>
 &lt;ol>
 &lt;li>La proporción es 1 lb de ingrediente en un galón de agua. Si me mantiene esta proporción, se puede escalar mas pequeño para experimentos (Por ejemplo 0.2 libras en 0.2gal de agua). Es mas fácil medir las libras y luego estimar los galones con conversion a litros o con peso si se sabe la gravedad.&lt;/li>
 &lt;li>Una vez calculadas las cantidades, calentar el agua&lt;/li>
@@ -362,7 +362,7 @@
 &lt;li>Medir la densidad con refractrómetro o hidrómetro&lt;/li>
 &lt;/ol>
 &lt;h2 id="mediciones">Mediciones&lt;/h2>
-&lt;p>Aca hay algunos ingredientes que ya medí:&lt;/p></description></item><item><title>Rosemary Sage Pale Ale</title><link>https://juan-castrillon.github.io/mybeer/recipes/rosemary_sage_pale_ale/</link><pubDate>Mon, 08 Apr 2024 23:00:58 +0200</pubDate><guid>https://juan-castrillon.github.io/mybeer/recipes/rosemary_sage_pale_ale/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
+&lt;p>Aca hay algunos ingredientes que ya medí:&lt;/p></description></item><item><title>Rosemary Sage Pale Ale</title><link>https://beer.blog.castrillon.ch/recipes/rosemary_sage_pale_ale/</link><pubDate>Mon, 08 Apr 2024 23:00:58 +0200</pubDate><guid>https://beer.blog.castrillon.ch/recipes/rosemary_sage_pale_ale/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
 &lt;ul>
 &lt;li>&lt;strong>Style:&lt;/strong> American Pale Ale&lt;/li>
 &lt;li>&lt;strong>Target Volume:&lt;/strong> 11 L&lt;/li>
@@ -492,7 +492,7 @@
 &lt;h2 id="maischen">Maischen&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 55 °C&lt;/p></description></item><item><title>Belgian Blond</title><link>https://juan-castrillon.github.io/mybeer/recipes/blond/</link><pubDate>Wed, 21 Feb 2024 20:13:30 +0100</pubDate><guid>https://juan-castrillon.github.io/mybeer/recipes/blond/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
+&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 55 °C&lt;/p></description></item><item><title>Belgian Blond</title><link>https://beer.blog.castrillon.ch/recipes/blond/</link><pubDate>Wed, 21 Feb 2024 20:13:30 +0100</pubDate><guid>https://beer.blog.castrillon.ch/recipes/blond/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
 &lt;ul>
 &lt;li>&lt;strong>Style:&lt;/strong> Belgian Blond&lt;/li>
 &lt;li>&lt;strong>Target Volume:&lt;/strong> 11L&lt;/li>
@@ -600,7 +600,7 @@
 &lt;h2 id="maischen">Maischen&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 57°C&lt;/p></description></item><item><title>Weizenbock</title><link>https://juan-castrillon.github.io/mybeer/recipes/weizenbock/</link><pubDate>Tue, 13 Feb 2024 18:58:01 +0100</pubDate><guid>https://juan-castrillon.github.io/mybeer/recipes/weizenbock/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
+&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 57°C&lt;/p></description></item><item><title>Weizenbock</title><link>https://beer.blog.castrillon.ch/recipes/weizenbock/</link><pubDate>Tue, 13 Feb 2024 18:58:01 +0100</pubDate><guid>https://beer.blog.castrillon.ch/recipes/weizenbock/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
 &lt;ul>
 &lt;li>&lt;strong>Style:&lt;/strong> Weizenbock&lt;/li>
 &lt;li>&lt;strong>Target Volume:&lt;/strong> 11L&lt;/li>
@@ -723,7 +723,7 @@
 &lt;h2 id="maischen">Maischen&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 59°C&lt;/p></description></item><item><title>Vanilla Milk Stout</title><link>https://juan-castrillon.github.io/mybeer/recipes/vm_stout/</link><pubDate>Fri, 17 Nov 2023 19:52:52 +0100</pubDate><guid>https://juan-castrillon.github.io/mybeer/recipes/vm_stout/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
+&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 59°C&lt;/p></description></item><item><title>Vanilla Milk Stout</title><link>https://beer.blog.castrillon.ch/recipes/vm_stout/</link><pubDate>Fri, 17 Nov 2023 19:52:52 +0100</pubDate><guid>https://beer.blog.castrillon.ch/recipes/vm_stout/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
 &lt;ul>
 &lt;li>&lt;strong>Style:&lt;/strong> Vanilla Milk Stout&lt;/li>
 &lt;li>&lt;strong>Target Volume:&lt;/strong> 10 L&lt;/li>
@@ -834,7 +834,7 @@
 &lt;h2 id="maischen">Maischen&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 77°C&lt;/p></description></item><item><title>Dubbel</title><link>https://juan-castrillon.github.io/mybeer/recipes/dubbel/</link><pubDate>Sat, 26 Aug 2023 16:06:59 +0200</pubDate><guid>https://juan-castrillon.github.io/mybeer/recipes/dubbel/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
+&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 77°C&lt;/p></description></item><item><title>Dubbel</title><link>https://beer.blog.castrillon.ch/recipes/dubbel/</link><pubDate>Sat, 26 Aug 2023 16:06:59 +0200</pubDate><guid>https://beer.blog.castrillon.ch/recipes/dubbel/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
 &lt;ul>
 &lt;li>&lt;strong>Style:&lt;/strong> Belgian Dubbel&lt;/li>
 &lt;li>&lt;strong>Target Volume:&lt;/strong> 10 L&lt;/li>
@@ -935,7 +935,7 @@
 &lt;h2 id="maischen">Maischen&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 57°C&lt;/p></description></item><item><title>Huell Saison</title><link>https://juan-castrillon.github.io/mybeer/recipes/saison/</link><pubDate>Tue, 18 Jul 2023 16:58:11 +0200</pubDate><guid>https://juan-castrillon.github.io/mybeer/recipes/saison/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
+&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 57°C&lt;/p></description></item><item><title>Huell Saison</title><link>https://beer.blog.castrillon.ch/recipes/saison/</link><pubDate>Tue, 18 Jul 2023 16:58:11 +0200</pubDate><guid>https://beer.blog.castrillon.ch/recipes/saison/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
 &lt;ul>
 &lt;li>&lt;strong>Style:&lt;/strong> Belgian Saison&lt;/li>
 &lt;li>&lt;strong>Target Volume:&lt;/strong> 10 L&lt;/li>
@@ -1059,7 +1059,7 @@
 &lt;h2 id="maischen">Maischen&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 61°C&lt;/p></description></item><item><title>Pale Ale 02</title><link>https://juan-castrillon.github.io/mybeer/recipes/pale_ale_02/</link><pubDate>Tue, 09 May 2023 18:58:28 +0200</pubDate><guid>https://juan-castrillon.github.io/mybeer/recipes/pale_ale_02/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
+&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 61°C&lt;/p></description></item><item><title>Pale Ale 02</title><link>https://beer.blog.castrillon.ch/recipes/pale_ale_02/</link><pubDate>Tue, 09 May 2023 18:58:28 +0200</pubDate><guid>https://beer.blog.castrillon.ch/recipes/pale_ale_02/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
 &lt;ul>
 &lt;li>&lt;strong>Style:&lt;/strong> English Pale Ale&lt;/li>
 &lt;li>&lt;strong>Target Volume:&lt;/strong> 9 L&lt;/li>
@@ -1160,7 +1160,7 @@
 &lt;h2 id="maischen">Maischen&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 61°C&lt;/p></description></item><item><title>Pale Ale 01</title><link>https://juan-castrillon.github.io/mybeer/recipes/pale_ale_01/</link><pubDate>Sat, 06 May 2023 13:37:52 +0200</pubDate><guid>https://juan-castrillon.github.io/mybeer/recipes/pale_ale_01/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
+&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 61°C&lt;/p></description></item><item><title>Pale Ale 01</title><link>https://beer.blog.castrillon.ch/recipes/pale_ale_01/</link><pubDate>Sat, 06 May 2023 13:37:52 +0200</pubDate><guid>https://beer.blog.castrillon.ch/recipes/pale_ale_01/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
 &lt;ul>
 &lt;li>&lt;strong>Style:&lt;/strong> English Pale Ale&lt;/li>
 &lt;li>&lt;strong>Target Volume:&lt;/strong> 9 L&lt;/li>
@@ -1261,7 +1261,7 @@
 &lt;h2 id="maischen">Maischen&lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 61°C&lt;/p></description></item><item><title>Websites</title><link>https://juan-castrillon.github.io/mybeer/learn/websites/</link><pubDate>Sat, 06 May 2023 12:24:28 +0200</pubDate><guid>https://juan-castrillon.github.io/mybeer/learn/websites/</guid><description/></item><item><title>Calculators</title><link>https://juan-castrillon.github.io/mybeer/page/calculators/</link><pubDate>Sat, 06 May 2023 12:21:19 +0200</pubDate><guid>https://juan-castrillon.github.io/mybeer/page/calculators/</guid><description/></item><item><title>Buying</title><link>https://juan-castrillon.github.io/mybeer/page/buying/</link><pubDate>Sat, 06 May 2023 12:20:37 +0200</pubDate><guid>https://juan-castrillon.github.io/mybeer/page/buying/</guid><description/></item><item><title>Process</title><link>https://juan-castrillon.github.io/mybeer/page/process/</link><pubDate>Sat, 06 May 2023 12:15:29 +0200</pubDate><guid>https://juan-castrillon.github.io/mybeer/page/process/</guid><description>&lt;h1 id="statistics">Statistics&lt;/h1>
+&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 61°C&lt;/p></description></item><item><title>Websites</title><link>https://beer.blog.castrillon.ch/learn/websites/</link><pubDate>Sat, 06 May 2023 12:24:28 +0200</pubDate><guid>https://beer.blog.castrillon.ch/learn/websites/</guid><description/></item><item><title>Calculators</title><link>https://beer.blog.castrillon.ch/page/calculators/</link><pubDate>Sat, 06 May 2023 12:21:19 +0200</pubDate><guid>https://beer.blog.castrillon.ch/page/calculators/</guid><description/></item><item><title>Buying</title><link>https://beer.blog.castrillon.ch/page/buying/</link><pubDate>Sat, 06 May 2023 12:20:37 +0200</pubDate><guid>https://beer.blog.castrillon.ch/page/buying/</guid><description/></item><item><title>Process</title><link>https://beer.blog.castrillon.ch/page/process/</link><pubDate>Sat, 06 May 2023 12:15:29 +0200</pubDate><guid>https://beer.blog.castrillon.ch/page/process/</guid><description>&lt;h1 id="statistics">Statistics&lt;/h1>
 &lt;p>Estadisticas promedio del proceso, obtenidas de las recetas. Pueden ser usadas para escalar futuras recetas.&lt;/p>
 &lt;table>
  &lt;thead>
