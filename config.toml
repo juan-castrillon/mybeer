@@ -1,4 +1,4 @@
-baseurl = "https://juan-castrillon.github.io/mybeer"
+baseurl = "https://beer.blog.castrillon.ch"
 
 [[module.imports]]
   path = "github.com/halogenica/beautifulhugo"
