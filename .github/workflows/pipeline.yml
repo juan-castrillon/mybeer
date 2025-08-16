@@ -16,12 +16,10 @@ jobs:
       - name: Setup Hugo # Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "0.109.0"
+          hugo-version: "0.135.0"
           extended: true
       - name: Build
         run: hugo --minify --debug
-      - name: List files
-        run: ls -l ./public/css
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
