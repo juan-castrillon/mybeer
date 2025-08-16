@@ -1,5 +1,8 @@
 baseurl = "https://juan-castrillon.github.io/mybeer"
 
+[[module.imports]]
+  path = "github.com/halogenica/beautifulhugo"
+
 DefaultContentLanguage = "en"
 title = "My Beer"
 theme = "beautifulhugo"
@@ -18,7 +21,7 @@ pygmentsCodefencesGuessSyntax = true
   commit = false # Shows the commit in the published website
   rss = false
   comments = true
-  readingTime = true
+  readingTime = false
   wordCount = false
   useHLJS = true # Highlight
   delayDisqus = true
