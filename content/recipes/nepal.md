@@ -2,7 +2,7 @@
 title: "Travel Series: Nepal (Black Tea Pale Ale)"
 date: 2025-08-10T20:51:23+02:00
 subtitle: ""
-image: "img/recipes/nepal.jpg"
+image: "img/recipes/nepal.jpeg"
 tags: ["recipes", "travel"]
 ---
 
@@ -179,7 +179,7 @@ El diseño del perfil de malta tuvo las siguientes justificaciones:
 - **Start:** 01.08.2025
 - **Duration in warm place:** 5 days at 24°C
 - **Storing Temperature:** 6.5°C
-- **Duration until ready to drink:** days #TODO: Complete days
+- **Duration until ready to drink:** 23 days
 
 #### Karbonisierung
 
@@ -192,8 +192,13 @@ El diseño del perfil de malta tuvo las siguientes justificaciones:
 # Notes
 
 - En el sótano de la nueva casa, las moscas pueden ser un problema. Para evitar preocupaciones, cubrir la llave del balde con una bolsa y un caucho
-#TODO: Add tasting notes
-
+- La cerveza final me dejó las siguientes impresiones:
+  - Color: Tenia un color bastante pálido, como paja. Fue menos dorado de lo que tenia imaginado
+  - Olor: Tenia notas cítricas bastante marcadas, con un olor muy agradable e identificable de limón. El olor también incluía malta y un poco de levadura (lager), haciéndola bastante agradable y que pareciera bastante fresca
+  - Sabor: El sabor era el de una buena pale ale (de pronto tendiendo a IPA). Era suave en el paladar y balanceada (alcohol) y con bastante cuerpo. El sabor era maltoso pero se sentía bastante el hop, dándole un toque critico frutal amargo típico de perfil de IPAs (no West coast). El nachtrunk tenia bastante presencia de hops. La cerveza era refrescante y bastante seca. El té, en mi opinion, no se sentía para nada, pero de pronto lo balanceo un poquito.
+  - Otros:
+    - La carbonatación podia haber estado mejor. 
+    - El sabor del te no fue significativo. Posibles mejoras serian otro te, mas té o mas tiempo. 
 
 # Statistics
 
