@@ -2,7 +2,7 @@
 title: "Bocadillo Tripel"
 date: 2024-08-29T18:20:01+02:00
 subtitle: ""
-image: "img/recipes/bocadillo_tripel.jpg"
+image: "img/recipes/tripel.jpeg"
 tags: ["recipes"]
 ---
 
@@ -28,6 +28,16 @@ tags: ["recipes"]
 | Cara Malz Belgisch | 333g   | 8%      |
 | Aromatic Malz      | 143g   | 3.5%    |
 
+El diseño del perfil de malta tuvo las siguientes justificaciones:
+
+- La principal base de selección fueron las recetas de tripel en el libro brew like a monk
+  - De ahi viene el usar la gran mayoría pils, poquito de aromatic
+  - El libro recomienda 10-20% azúcar. En mi caso, es repartida con el bocadillo (12%) en cantidades iguales. La idea es subir alcohol pero no quitarle cuerpo
+  - Se sugería también posibles experimentos introduciendo Caramalz. Encontre una recomendada en mi proveedor y la agregue
+- También encontré una [receta](https://www.hobbybrouwen.nl/forum/index.php?topic=39679.0) clon de una de mis tripel favoritas (la trappe is d'or)
+  - Esta receta usa weizenmalz e investigando esto da cuerpo y espuma. Mi idea era compensar la falta de cuerpo por la cantidad elevada de azúcar
+- Con la calculadora, y el EVG potential de la levadura, partí de mi nivel deseado de alcohol, y usando [esta explicación](https://www.northernbrewer.com/blogs/new-to-brewing-start-here/attenuation) como referencia, calculé cual debía ser mi OG. Asi, quería algo entre 59% de alcohol, y de la levadura tome un EVG de 80%. Esto da como resultado 8.5% de alcohol y mi idea era completar el 0.5% restante con la glucosa usada en la fermentación secundaria.
+
 
 
 ## Hops
@@ -41,6 +51,15 @@ tags: ["recipes"]
 | Saazer                | 4g     | 0min (Whirlpool) | 3.6%  |
 | Hallertauer Tradition | 5g     | 0min (Whirlpool) | 5.5%  |
 
+Para la selección de lúpulo:
+
+- Las principales base fueron el libro brew like a monk y la receta clon: En ambos se usa el Saazer como principal hop de este tipo de cerveza aunque también se incluyen otros noble hops como Perle o Tradition
+- Decidí usar el saazer y el hallertauer para intentar dar notas de olor especiado, típico del estilo
+- La selección también se baso en que tenia hops disponibles pero congelados. 
+- La misma razón para el uso de vic secret. Intenté aprovechar su alto alpha y usarlo muy al principio para solo dar amargura y no aportar ninguna de sus notas frutales
+-  Para las cantidades diseñé con 30IBU en mente. Con este valor, y siguiendo el libro, llego a una relación BUGU de 0.4 que esta dentro de lo esperado
+
+Con respecto al azucar/bocadillo: Decidí dejarlo 10 minutos, ya que el propósito es diluir sin botar demasiado sabor, y 10 minutos funciono para la dubbel y la anterior season. 
 
 ## Yeast (Hefe)
 
@@ -125,6 +144,11 @@ tags: ["recipes"]
 - **Amount:** 137g de glucosa en 500ml de agua
 
 # Notes
+
+- La cerveza final me dejó las siguientes impresiones:
+  - Color: Presentaba un tono cobrizo-anaranjado, bastante opaco probablemente por el bocadillo.
+  - Olor: El aroma se sentía claramente marcado por la levadura belga, acompañado de notas frutales en segundo plano, principalmente piña y papaya. Era un olor agradable y evocador de cervezas de estilo belga.
+  - Sabor: El perfil estaba bastante alineado con una tripel, aunque no se percibía un exceso de alcohol a pesar de su fuerza. Era muy seca, incluso más de lo esperado, lo que la acercaba a un carácter más saison. La carbonatación estaba bien lograda, y el aporte de la levadura era evidente en boca. El bocadillo no se siente en el sabor final. Al dejarla reposar y ganar temperatura, emergieron más fenoles, sabores típicos de tripel y un carácter especiado dulce que equilibraba el final seco. En general, era fácil de beber a pesar de la complejidad.
 
 
 # Statistics
