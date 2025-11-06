@@ -13,7 +13,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
   subtitle = "Notes and thoughts on making my own beer"
-  mainSections = ["post","recipes", "page"] # This controls what is shown in the main page
+  mainSections = ["post","recipes", "page", "howto"] # This controls what is shown in the main page
   logo = "img/beer.png" # Expecting square dimensions
   favicon = "img/beer-favicon.png"
   dateFormat = "02/01/2006"
@@ -49,9 +49,20 @@ pygmentsCodefencesGuessSyntax = true
     weight = 3
 
 [[menu.main]]
+    identifier = "howto"
+    name = "HowTo"
+    weight = 4
+
+[[menu.main]]
+    parent = "howto"
+    name = "Ingredient Potential"
+    url = "howto/potential"
+    weight = 1
+
+[[menu.main]]
     identifier = "others"
     name = "Others"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     parent = "others"
