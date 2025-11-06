@@ -216,6 +216,22 @@
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
+&lt;p>El diseño del perfil de malta tuvo las siguientes justificaciones:&lt;/p>
+&lt;ul>
+&lt;li>La principal base de selección fueron las recetas de tripel en el libro brew like a monk
+&lt;ul>
+&lt;li>De ahi viene el usar la gran mayoría pils, poquito de aromatic&lt;/li>
+&lt;li>El libro recomienda 10-20% azúcar. En mi caso, es repartida con el bocadillo (12%) en cantidades iguales. La idea es subir alcohol pero no quitarle cuerpo&lt;/li>
+&lt;li>Se sugería también posibles experimentos introduciendo Caramalz. Encontre una recomendada en mi proveedor y la agregue&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>También encontré una &lt;a href="https://www.hobbybrouwen.nl/forum/index.php?topic=39679.0">receta&lt;/a> clon de una de mis tripel favoritas (la trappe is d&amp;rsquo;or)
+&lt;ul>
+&lt;li>Esta receta usa weizenmalz e investigando esto da cuerpo y espuma. Mi idea era compensar la falta de cuerpo por la cantidad elevada de azúcar&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Con la calculadora, y el EVG potential de la levadura, partí de mi nivel deseado de alcohol, y usando &lt;a href="https://www.northernbrewer.com/blogs/new-to-brewing-start-here/attenuation">esta explicación&lt;/a> como referencia, calculé cual debía ser mi OG. Asi, quería algo entre 59% de alcohol, y de la levadura tome un EVG de 80%. Esto da como resultado 8.5% de alcohol y mi idea era completar el 0.5% restante con la glucosa usada en la fermentación secundaria.&lt;/li>
+&lt;/ul>
 &lt;h2 id="hops">Hops&lt;/h2>
 &lt;table>
  &lt;thead>
@@ -265,45 +281,7 @@
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
-&lt;h2 id="yeast-hefe">Yeast (Hefe)&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th style="text-align: left">Yeast&lt;/th>
- &lt;th style="text-align: left">Amount&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td style="text-align: left">LalBrew Abbaye&lt;/td>
- &lt;td style="text-align: left">11g&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h2 id="water">Water&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th style="text-align: left">Purpose&lt;/th>
- &lt;th style="text-align: left">Amount&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td style="text-align: left">Hauptguss&lt;/td>
- &lt;td style="text-align: left">15.6L&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td style="text-align: left">Nachguss&lt;/td>
- &lt;td style="text-align: left">7.7L&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h1 id="process">Process&lt;/h1>
-&lt;h2 id="maischen">Maischen&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 55°C (Baja a 53°C cuando entra el grano)&lt;/p></description></item><item><title>Panela Lulo Saison</title><link>https://beer.blog.castrillon.ch/recipes/fruit_saison/</link><pubDate>Tue, 23 Jul 2024 21:13:01 +0200</pubDate><guid>https://beer.blog.castrillon.ch/recipes/fruit_saison/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
+&lt;p>Para la selección de lúpulo:&lt;/p></description></item><item><title>Panela Lulo Saison</title><link>https://beer.blog.castrillon.ch/recipes/fruit_saison/</link><pubDate>Tue, 23 Jul 2024 21:13:01 +0200</pubDate><guid>https://beer.blog.castrillon.ch/recipes/fruit_saison/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
 &lt;ul>
 &lt;li>&lt;strong>Style:&lt;/strong> Belgian Saison&lt;/li>
 &lt;li>&lt;strong>Target Volume:&lt;/strong> 15L&lt;/li>
