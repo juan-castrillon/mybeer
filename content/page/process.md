@@ -34,19 +34,17 @@ A continuacion detallo mi proceso de elaboracion de cerveza. Este proceso es el 
 
 2. Echar el malz en el einkocher. Al echarlo la temperatura bajara unos grados.Si es suficiente para el primer rast perfecto, si no, se apaga el calentador y se espera a que la temperatura baje, todo mientras se revuelve el malz para que no se pegue en el fondo.
 
-3. Una vez en la temperatura del primer rast, tapar el einkocher y dejar reposar el tiempo indicado en la receta.
+3. Una vez en la temperatura del primer rast, tapar el einkocher y dejar reposar el tiempo indicado en la receta. Cada 5-10 minutos reviso la temperatura y corrijo si necesario.
 
-4. Prender el calentador y subir la temperatura a la del segundo rast. Siempre que se este calentando, revolver el malz para que no se pegue en el fondo. Una vez en la temperatura, tapar, apagar el calentador y dejar reposar el tiempo indicado en la receta.
+4. Prender el calentador y subir la temperatura a la del segundo rast. Siempre que se este calentando, revolver el malz para que no se pegue en el fondo. Una vez en la temperatura, tapar, apagar el calentador y dejar reposar el tiempo indicado en la receta. Cada 5-10 minutos reviso la temperatura y corrijo si necesario.
 
 5. Despues del segundo rast hacer una prueba de yodo. Todavia en esta etapa el color puede ser gris claro, pero no deberia ser demasiado colorido.
 
-6. Prender el calentador y subir la temperatura a la del tercer rast. Siempre que se este calentando, revolver el malz para que no se pegue en el fondo. Una vez en la temperatura, tapar, apagar el calentador y dejar reposar el tiempo indicado en la receta.
+6. Prender el calentador y subir la temperatura a la del tercer rast. Siempre que se este calentando, revolver el malz para que no se pegue en el fondo. Una vez en la temperatura, tapar, apagar el calentador y dejar reposar el tiempo indicado en la receta.Cada 5-10 minutos reviso la temperatura y corrijo si necesario.
 
 7. Despues del tercer rast hacer una prueba de yodo. El color ahora no deberia cambiar. Si cambia es necesario alargar el tiempo de este rast.
 
-8. Prender el calentador y subir la temperatura a la del cuarto rast (78 °C). Siempre que se este calentando, revolver el malz para que no se pegue en el fondo. Una vez en la temperatura, tapar, apagar el calentador y dejar reposar el tiempo indicado en la receta.
-
-9. En paralello, caliento agua a 78 °C para el nachguss y la pongo en balde. Puedo usar el wasserkocher (1L) y agua fria (1L) para ir llegando a la temperatura deseada.
+8. Prender el calentador y subir la temperatura a la del cuarto rast (78 °C). Siempre que se este calentando, revolver el malz para que no se pegue en el fondo. Una vez en la temperatura, tapar, apagar el calentador y dejar reposar el tiempo indicado en la receta. Cada 5-10 minutos reviso la temperatura y corrijo si necesario.
 
 # 2. Läutern
 
@@ -58,9 +56,9 @@ A continuacion detallo mi proceso de elaboracion de cerveza. Este proceso es el 
 
 4. Abro la llave y recibo las primeras veces en la jarra para devolverlo al balde por la tapa al reves con huecos o la cuchara con agujeros. Repito esto varias veces hasta que salga mas claro.
 
-5. Cuando ya sale mas claro, pongo el einkocher debajo de la llave y lo dejo llenarse. 
+5. Cuando ya sale mas claro, pongo el einkocher debajo de la llave y lo dejo llenarse. Abro la llave muy poco de manera que el liquido sale muy lento
 
-6. Nunca se deja secar el balde, siempre se mantiene con liquido. Cuando empieze a salir poco, le echo el nachguss otra vez por la tapa al reves con huecos o la cuchara con agujeros. 
+6. Nunca se deja secar el balde, siempre se mantiene con liquido (dos). Cuando empieze a salir poco, le echo el nachguss otra vez por la tapa al reves con huecos. Para esto, preparo el Nachguss por intervalos de 1.5 L en el einkocker a 78°C y lo echo. 
 
 # 3. Kochen
 
@@ -74,7 +72,7 @@ A continuacion detallo mi proceso de elaboracion de cerveza. Este proceso es el 
 
 5. Dejar reposar el liquido 10 min para que se asiente todo el hopfen.
 
-6. Posiciono el filtro de monofilamento en la llave del einkocher y el balde debajo de la llave. Abro la llave y dejo que se filtre todo el contenido del einkocher al balde.
+6. Posiciono el filtro de monofilamento en la llave del einkocher y el balde debajo de la llave. Abro la llave y dejo que se filtre todo el contenido del einkocher al balde. Oxigenar la cerveza mientras cae es bueno para la levadura despues (Hacer espuma)
 
 7. Para ayudar a que la bola creada por el remolino no se vaya, puedo usar un colador para que se quede en el einkocher. Un libro debajo del einkocher ayuda a que la mayoria del liquido se vaya al balde.
 
@@ -84,7 +82,7 @@ A continuacion detallo mi proceso de elaboracion de cerveza. Este proceso es el 
 
 # 5. Fermentar
 
-1. Una vez que la temperatura es la indicada, sacar una muestra de la cerveza con la jarra y el tubo de plastico. Medir la densidad con el densimetro. Si la densidad es la indicada en la receta, pasar al paso 2. Si no, [calcular](https://mashcamp.shop/brauberechnungen/) agua necesaria y medir densidad de nuevo. Repetir hasta que la densidad sea la indicada.
+1. Una vez que la temperatura es la indicada, sacar una muestra de la cerveza y medir densidad. Agregar agua si es necesario para alcanzar la densidad deseada
 
 2. Preparar la campana en la tapa del balde
 
@@ -96,31 +94,29 @@ A continuacion detallo mi proceso de elaboracion de cerveza. Este proceso es el 
 
 1. Dejar madurar la cerveza en el balde por el tiempo indicado en la receta.
 
-2. Despues de una semana, sacar una muestra de la cerveza con la jarra y el tubo de plastico. Medir la densidad con el densimetro. Si la densidad no cambia en 2 dias pasar a la siguiente etapa.
+2. Despues de una semana, sacar una muestra de la cerveza. Medir la densidad con el refractrometro ([corrigiendo](https://www.northernbrewer.com/pages/refractometer-calculator) por la presencia de alcohol). Si la densidad no cambia en 2 dias pasar a la siguiente etapa.
 
 # 7. Embotellar
 
 1. Preparar las botellas. Limpiarlas.
 
-2. Preparar la solucion de azucar. Para esto usar calculadoras de internet y disolver la cantidad de azucar indicada en agua caliente. Para calcular el volumen, se puede hacer un promedio de los volumenes cerca a 0.5L mas cercanos. Por ejemplo, con 11.7 litros, asumiendo que 1L se pierde en levadura, se pueden calcular el azucar para 10 y 10.5 litros y usar el promedio de los dos.
+2. Preparar la solucion de azucar. Para calcular el volumen, se puede hacer un promedio de los volumenes cerca a 0.5L mas cercanos. Por ejemplo, con 11.7 litros, asumiendo que 1L se pierde en levadura, se pueden calcular el azucar para 10 y 10.5 litros y usar el promedio de los dos.
 
 3. Dejar enfriar la solucion de azucar hasta que este a una temperatura similar a la de fermentacion.
 
-4. Limpiar el bierheber, las mangueras, el llenador, el filtro y el balde. 
+4. Limpiar el bierheber, las mangueras, la pistola, el filtro y el balde. 
 
-5. Poner el llenador en la llave del balde de llenado. 
+5. Posicionar el balde de fermentacion en un lugar mas alto que el balde de llenado. Poner el bierheber en el balde de fermentacion y el otro extremo en el filtro. Poner el filtro en el balde de llenado con la solucion de azucar.
 
-6. Posiciionar el balde de fermentacion en un lugar mas alto que el balde de llenado. Poner el bierheber en el balde de fermentacion y el otro extremo en el filtro. Poner el filtro en el balde de llenado con la solucion de azucar.
+6. Empezar el bierheber y dejar que la cerveza llene el balde de llenado. Aca,evitar oxigenacion lo mas posible (Flujo lo mas laminar posible)
 
-7. Empezar el bierheber y dejar que la cerveza llene el balde de llenado.
+7. Una vez terminado, tapar el balde de llenado y revolver un poco
 
-8. Una vez terminado, tapar el balde de llenado y revolver un poco
+8. Llenar las botellas usando la pistola y recoger restos en la jarra (desinfectada). Al final usar la jara para llenar la ultima botella y ver cuando sobro (asi saber cuanto se embotello)
 
-9. Usando una linterna, poner las botellas en el llenador y llenarlas de manera que quede un poco de espacio para el aire.
+9.  Cerrar las botellas y limpiarlas.
 
-10. Cerrar las botellas y limpiarlas.
-
-11. Dejar las botellas a la temperatura de fermentacion por al menos 1 semana.
+10. Dejar las botellas a la temperatura de fermentacion por al menos 1 semana.
 
 # 8. Madurar
 
