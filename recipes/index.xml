@@ -1,4 +1,153 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recipes on</title><link>https://beer.blog.castrillon.ch/recipes/</link><description>Recent content in Recipes on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 10 Aug 2025 20:51:23 +0200</lastBuildDate><atom:link href="https://beer.blog.castrillon.ch/recipes/index.xml" rel="self" type="application/rss+xml"/><item><title>Travel Series: Nepal (Black Tea Pale Ale)</title><link>https://beer.blog.castrillon.ch/recipes/nepal/</link><pubDate>Sun, 10 Aug 2025 20:51:23 +0200</pubDate><guid>https://beer.blog.castrillon.ch/recipes/nepal/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recipes on</title><link>https://beer.blog.castrillon.ch/recipes/</link><description>Recent content in Recipes on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 28 Nov 2025 21:25:27 +0100</lastBuildDate><atom:link href="https://beer.blog.castrillon.ch/recipes/index.xml" rel="self" type="application/rss+xml"/><item><title>Christmas Stout</title><link>https://beer.blog.castrillon.ch/recipes/vm_stout2/</link><pubDate>Fri, 28 Nov 2025 21:25:27 +0100</pubDate><guid>https://beer.blog.castrillon.ch/recipes/vm_stout2/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
+&lt;ul>
+&lt;li>&lt;strong>Style:&lt;/strong> Milk Stout&lt;/li>
+&lt;li>&lt;strong>Target Volume:&lt;/strong> 10L&lt;/li>
+&lt;li>&lt;strong>Actual Volume:&lt;/strong> 8.3L&lt;/li>
+&lt;li>&lt;strong>Initial Stammwürze:&lt;/strong> 1.062&lt;/li>
+&lt;li>&lt;strong>Target Stammwürze:&lt;/strong> 1.050&lt;/li>
+&lt;li>&lt;strong>Final Stammwürze:&lt;/strong> 1.010&lt;/li>
+&lt;li>&lt;strong>Alcohol:&lt;/strong> 7.3%&lt;/li>
+&lt;/ul>
+&lt;h1 id="ingredients">Ingredients&lt;/h1>
+&lt;h2 id="malts">Malts&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Malt&lt;/th>
+ &lt;th style="text-align: left">Amount&lt;/th>
+ &lt;th style="text-align: left">Percent&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Pale Ale Malz&lt;/td>
+ &lt;td style="text-align: left">1650g&lt;/td>
+ &lt;td style="text-align: left">71.4%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Münchner Malz Typ I&lt;/td>
+ &lt;td style="text-align: left">320g&lt;/td>
+ &lt;td style="text-align: left">13.9%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">CARAMÜNCH Typ II&lt;/td>
+ &lt;td style="text-align: left">105g&lt;/td>
+ &lt;td style="text-align: left">4.5%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">CARAFA Typ II&lt;/td>
+ &lt;td style="text-align: left">105g&lt;/td>
+ &lt;td style="text-align: left">4.5%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Haferflocken&lt;/td>
+ &lt;td style="text-align: left">130g&lt;/td>
+ &lt;td style="text-align: left">5.6%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;ul>
+&lt;li>Selección de maltas se basó en la receta anterior. Quería intentar hacer la misma cerveza pero esta vez con un mejor proceso.&lt;/li>
+&lt;li>La idea era hacer algo un poquito mas fuerte, por eso jugué un poco con braureka hasta obtener las cantidades&lt;/li>
+&lt;/ul>
+&lt;h2 id="hops">Hops&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Hop&lt;/th>
+ &lt;th style="text-align: left">Amount&lt;/th>
+ &lt;th style="text-align: left">Time&lt;/th>
+ &lt;th style="text-align: left">Alpha&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Northern Brewer&lt;/td>
+ &lt;td style="text-align: left">20g&lt;/td>
+ &lt;td style="text-align: left">70 min (Vorderwürze)&lt;/td>
+ &lt;td style="text-align: left">8.4%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Milchzucker (Lactose)&lt;/td>
+ &lt;td style="text-align: left">115g&lt;/td>
+ &lt;td style="text-align: left">10 min&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;ul>
+&lt;li>Escale la lactosa un poquito&lt;/li>
+&lt;/ul>
+&lt;h2 id="yeast-hefe">Yeast (Hefe)&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Yeast&lt;/th>
+ &lt;th style="text-align: left">Amount&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Lallemand Nottingham&lt;/td>
+ &lt;td style="text-align: left">11g&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="water">Water&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Purpose&lt;/th>
+ &lt;th style="text-align: left">Amount&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Hauptguss&lt;/td>
+ &lt;td style="text-align: left">8.1L&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Nachguss&lt;/td>
+ &lt;td style="text-align: left">6.9L&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="tinctures">Tinctures&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Ingredient&lt;/th>
+ &lt;th style="text-align: left">Liquor&lt;/th>
+ &lt;th style="text-align: left">Alcohol&lt;/th>
+ &lt;th style="text-align: left">Amount&lt;/th>
+ &lt;th style="text-align: left">Time in Beer&lt;/th>
+ &lt;th style="text-align: left">Time making&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Vanilla&lt;/td>
+ &lt;td style="text-align: left">Bourbon (Jim Beam&amp;rsquo;s)&lt;/td>
+ &lt;td style="text-align: left">40%&lt;/td>
+ &lt;td style="text-align: left">(3 sticks) 100 ml&lt;/td>
+ &lt;td style="text-align: left">8 days&lt;/td>
+ &lt;td style="text-align: left">2 weeks&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Cinnamon&lt;/td>
+ &lt;td style="text-align: left">Bourbon (Jim Beam&amp;rsquo;s)&lt;/td>
+ &lt;td style="text-align: left">40%&lt;/td>
+ &lt;td style="text-align: left">25 ml&lt;/td>
+ &lt;td style="text-align: left">8 days&lt;/td>
+ &lt;td style="text-align: left">2 weeks&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h1 id="process">Process&lt;/h1>
+&lt;h2 id="maischen">Maischen&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 55°C&lt;/p></description></item><item><title>Travel Series: Nepal (Black Tea Pale Ale)</title><link>https://beer.blog.castrillon.ch/recipes/nepal/</link><pubDate>Sun, 10 Aug 2025 20:51:23 +0200</pubDate><guid>https://beer.blog.castrillon.ch/recipes/nepal/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
 &lt;ul>
 &lt;li>&lt;strong>Style:&lt;/strong> English Pale Ale&lt;/li>
 &lt;li>&lt;strong>Target Volume:&lt;/strong> 8L&lt;/li>
