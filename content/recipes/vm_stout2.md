@@ -159,3 +159,12 @@ $$
 - **Yeast EVG:** 84% (78-84% theoretical)
 
 - **Cooking Duration:**  ~6h
+
+
+# Etiqueta
+
+![label_samichlaus](/img/recipes/label_vmstout2.png)
+
+- Prompt (Copilot): Create a funny festive cartoon illustration of Swiss Christmas figure Samichlaus, dressed like a traditional Swiss Samichlaus (Saint Nicholas): long red bishop's robe, bishop’s mitre hat, white beard, and a dignified yet gentle look. He looks clearly drunk and jolly, carrying his donkey piggyback and holding a bottle of beer. Add wobbling footsteps, hiccup bubbles, and a trail of empty bottles in the snow to emphasize his drunkenness. Include Schmutzli lurking in the background for extra Swiss folklore flair. The donkey looks scared or confused. The scene is set in a snowy winter environment with a colorful, humorous, cartoon-like style. No text or labels.
+
+> I added the additional details myself
