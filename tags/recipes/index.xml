@@ -1,4 +1,136 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recipes on</title><link>https://beer.blog.castrillon.ch/tags/recipes/</link><description>Recent content in Recipes on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 28 Nov 2025 21:25:27 +0100</lastBuildDate><atom:link href="https://beer.blog.castrillon.ch/tags/recipes/index.xml" rel="self" type="application/rss+xml"/><item><title>Christmas Stout</title><link>https://beer.blog.castrillon.ch/recipes/vm_stout2/</link><pubDate>Fri, 28 Nov 2025 21:25:27 +0100</pubDate><guid>https://beer.blog.castrillon.ch/recipes/vm_stout2/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recipes on</title><link>https://beer.blog.castrillon.ch/tags/recipes/</link><description>Recent content in Recipes on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 09 Jul 2026 19:21:02 +0200</lastBuildDate><atom:link href="https://beer.blog.castrillon.ch/tags/recipes/index.xml" rel="self" type="application/rss+xml"/><item><title>Travel Series: Thailand (Thai Pale Ale)</title><link>https://beer.blog.castrillon.ch/recipes/thai/</link><pubDate>Thu, 09 Jul 2026 19:21:02 +0200</pubDate><guid>https://beer.blog.castrillon.ch/recipes/thai/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
+&lt;ul>
+&lt;li>&lt;strong>Style:&lt;/strong> American Pale Ale&lt;/li>
+&lt;li>&lt;strong>Target Volume:&lt;/strong> 10 L&lt;/li>
+&lt;li>&lt;strong>Actual Volume:&lt;/strong> 12.5 L&lt;/li>
+&lt;li>&lt;strong>Initial Stammwürze:&lt;/strong> 1.044&lt;/li>
+&lt;li>&lt;strong>Target Stammwürze:&lt;/strong> 1.047&lt;/li>
+&lt;li>&lt;strong>Final Stammwürze:&lt;/strong> 1.008&lt;/li>
+&lt;li>&lt;strong>Alcohol:&lt;/strong> 5%&lt;/li>
+&lt;/ul>
+&lt;h1 id="ingredients">Ingredients&lt;/h1>
+&lt;h2 id="malts">Malts&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Malt&lt;/th>
+ &lt;th style="text-align: left">Amount&lt;/th>
+ &lt;th style="text-align: left">Percent&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Pale Ale&lt;/td>
+ &lt;td style="text-align: left">1720g&lt;/td>
+ &lt;td style="text-align: left">76.6%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Karamellmalz Hell&lt;/td>
+ &lt;td style="text-align: left">170g&lt;/td>
+ &lt;td style="text-align: left">7.6%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Sauermalz&lt;/td>
+ &lt;td style="text-align: left">55g&lt;/td>
+ &lt;td style="text-align: left">2.4%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Reisflocken&lt;/td>
+ &lt;td style="text-align: left">300g&lt;/td>
+ &lt;td style="text-align: left">13.4%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;ul>
+&lt;li>Con el OG objetivo (1.047) elegí las cantidades de las maltas. - Uso la misma base de los experimentos:
+&lt;ul>
+&lt;li>Casi todo pale ale&lt;/li>
+&lt;li>Carahell para darle un poquito de cuerpo y ayudar con la espuma (mayor porcentaje, mas cercano a recomendación del fabricante 10%)&lt;/li>
+&lt;li>Sauermalz para compensar ph (mx recomendado 5% uso 2.5%)&lt;/li>
+&lt;li>Adición de arroz para darle perfil seco y crispy, recomendado entre 10 y 20% uso 13%.&lt;/li>
+&lt;li>EBC de 10 se veia bien en los experimentos entonces queda igual&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="hops">Hops&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Hop&lt;/th>
+ &lt;th style="text-align: left">Amount&lt;/th>
+ &lt;th style="text-align: left">Time&lt;/th>
+ &lt;th style="text-align: left">Alpha&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Magnum US&lt;/td>
+ &lt;td style="text-align: left">10g&lt;/td>
+ &lt;td style="text-align: left">80min&lt;/td>
+ &lt;td style="text-align: left">11.2%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Holy Basil (Krapao)&lt;/td>
+ &lt;td style="text-align: left">20g&lt;/td>
+ &lt;td style="text-align: left">O min (Flameout)&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Kaffir Lime Leaves&lt;/td>
+ &lt;td style="text-align: left">12g&lt;/td>
+ &lt;td style="text-align: left">125 h (Dry Hop)&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;ul>
+&lt;li>En los experimentos, trabaje con 30 IBUs, pero ambos procedimientos (kaffir dry hop, holy basil flameout) le agregaron un poco de amargor. Como para la receta final los combino, elegí bajar un poco el OG/IBU de 0.65 a 0.6 llegando a 28IBU&lt;/li>
+&lt;/ul>
+&lt;h2 id="yeast-hefe">Yeast (Hefe)&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Yeast&lt;/th>
+ &lt;th style="text-align: left">Amount&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">SafAle US-05&lt;/td>
+ &lt;td style="text-align: left">11.5g&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;ul>
+&lt;li>En los experimentos use Nottingham, Claude recomienda US05 al dar unas notas un poquito mas frutales pero tambien no es facil de identificar una de la otra.&lt;/li>
+&lt;li>Las dos dan un perfil seco, y no aportan demasiados sabores para que brillen los adjuntos. También manejan bien la temperatura.&lt;/li>
+&lt;li>Basado en experimentos como por ejemplo &lt;a href="https://homebrewtalk.com/threads/us-05-vs-nottingham-side-by-side-test.246149/">https://homebrewtalk.com/threads/us-05-vs-nottingham-side-by-side-test.246149/&lt;/a> me decido por la US05 para darle protagonismo a los adjuntos y ayudar a hacer una cerveza seca que cuadra con &amp;ldquo;calor&amp;rdquo; y Tailandia&lt;/li>
+&lt;li>Teniendo la levadura (~80% attenuation), y mi alcohol objetivo (5.5% -&amp;gt; 5 y bottle cond sube el resto) puedo calcular mi OG: Los experimentos quedaron de 1.006 que me parece bien ya que no tiene que ser dulce sino seca, entonces uso eso de objetivo. COn el alcohol es complicado el calculo, usando esto &lt;a href="https://www.brewersfriend.com/abv-calculator/">https://www.brewersfriend.com/abv-calculator/&lt;/a> puedo predecir algo de 5% y 80% de atenuation con OG=1.047 y FG=1.009&lt;/li>
+&lt;/ul>
+&lt;h2 id="water">Water&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Purpose&lt;/th>
+ &lt;th style="text-align: left">Amount&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Hauptguss&lt;/td>
+ &lt;td style="text-align: left">7.9L&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Nachguss&lt;/td>
+ &lt;td style="text-align: left">7.4L&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h1 id="process">Process&lt;/h1>
+&lt;h2 id="maischen">Maischen&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 55°C&lt;/p></description></item><item><title>Christmas Stout</title><link>https://beer.blog.castrillon.ch/recipes/vm_stout2/</link><pubDate>Fri, 28 Nov 2025 21:25:27 +0100</pubDate><guid>https://beer.blog.castrillon.ch/recipes/vm_stout2/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
 &lt;ul>
 &lt;li>&lt;strong>Style:&lt;/strong> Milk Stout&lt;/li>
 &lt;li>&lt;strong>Target Volume:&lt;/strong> 10L&lt;/li>
