@@ -1,4 +1,147 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recipes on</title><link>https://beer.blog.castrillon.ch/tags/recipes/</link><description>Recent content in Recipes on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 09 Jul 2026 19:21:13 +0200</lastBuildDate><atom:link href="https://beer.blog.castrillon.ch/tags/recipes/index.xml" rel="self" type="application/rss+xml"/><item><title>Wit</title><link>https://beer.blog.castrillon.ch/recipes/wit/</link><pubDate>Thu, 09 Jul 2026 19:21:13 +0200</pubDate><guid>https://beer.blog.castrillon.ch/recipes/wit/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recipes on</title><link>https://beer.blog.castrillon.ch/tags/recipes/</link><description>Recent content in Recipes on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 25 Oct 2026 10:20:18 +0100</lastBuildDate><atom:link href="https://beer.blog.castrillon.ch/tags/recipes/index.xml" rel="self" type="application/rss+xml"/><item><title>Fruit Saison 2</title><link>https://beer.blog.castrillon.ch/recipes/fruit_saison2/</link><pubDate>Sun, 25 Oct 2026 10:20:18 +0100</pubDate><guid>https://beer.blog.castrillon.ch/recipes/fruit_saison2/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
+&lt;ul>
+&lt;li>&lt;strong>Style:&lt;/strong> Belgian Saison&lt;/li>
+&lt;li>&lt;strong>Target Volume:&lt;/strong> 8L&lt;/li>
+&lt;li>&lt;strong>Actual Volume:&lt;/strong> 8.2L&lt;/li>
+&lt;li>&lt;strong>Initial Stammwürze:&lt;/strong> 1.048&lt;/li>
+&lt;li>&lt;strong>Target Stammwürze:&lt;/strong> 1.048&lt;/li>
+&lt;li>&lt;strong>Final Stammwürze:&lt;/strong> 1.009&lt;/li>
+&lt;li>&lt;strong>Alcohol:&lt;/strong> 5.9%&lt;/li>
+&lt;/ul>
+&lt;h1 id="ingredients">Ingredients&lt;/h1>
+&lt;h2 id="malts">Malts&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Malt&lt;/th>
+ &lt;th style="text-align: left">Amount&lt;/th>
+ &lt;th style="text-align: left">Percent&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Haferflocken&lt;/td>
+ &lt;td style="text-align: left">160g&lt;/td>
+ &lt;td style="text-align: left">10.6%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Pale Ale Malz&lt;/td>
+ &lt;td style="text-align: left">1120g&lt;/td>
+ &lt;td style="text-align: left">74.3%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Maisflocken&lt;/td>
+ &lt;td style="text-align: left">70g&lt;/td>
+ &lt;td style="text-align: left">4.5%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Weizenflocken&lt;/td>
+ &lt;td style="text-align: left">160g&lt;/td>
+ &lt;td style="text-align: left">10.6%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;ul>
+&lt;li>En el diseno de la receta en braureka, conte panela en aca. Esto fue para entendert el efecto en la gravedad y el color&lt;/li>
+&lt;/ul>
+&lt;h2 id="hops">Hops&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Hop&lt;/th>
+ &lt;th style="text-align: left">Amount&lt;/th>
+ &lt;th style="text-align: left">Time&lt;/th>
+ &lt;th style="text-align: left">Alpha&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Vic Secret&lt;/td>
+ &lt;td style="text-align: left">2g&lt;/td>
+ &lt;td style="text-align: left">80 min&lt;/td>
+ &lt;td style="text-align: left">19%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Vic Secret&lt;/td>
+ &lt;td style="text-align: left">1g&lt;/td>
+ &lt;td style="text-align: left">30 min&lt;/td>
+ &lt;td style="text-align: left">19%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Panela&lt;/td>
+ &lt;td style="text-align: left">70g&lt;/td>
+ &lt;td style="text-align: left">10min&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Vic Secret&lt;/td>
+ &lt;td style="text-align: left">1g&lt;/td>
+ &lt;td style="text-align: left">5 min&lt;/td>
+ &lt;td style="text-align: left">19%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Vic Secret&lt;/td>
+ &lt;td style="text-align: left">7g&lt;/td>
+ &lt;td style="text-align: left">0 min (Whirlpool 90°C)&lt;/td>
+ &lt;td style="text-align: left">19%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Lulo (Puré)&lt;/td>
+ &lt;td style="text-align: left">130g&lt;/td>
+ &lt;td style="text-align: left">h (Dry hop)&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Sandia (En pedazos)&lt;/td>
+ &lt;td style="text-align: left">100g&lt;/td>
+ &lt;td style="text-align: left">h (Dry hop)&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;ul>
+&lt;li>Usando la proporcion de la receta anterior, el lulo fue con 25g/L (5.4L)&lt;/li>
+&lt;li>La sandia, para poder entender su efecto fue el doble (100g en 2L)&lt;/li>
+&lt;/ul>
+&lt;h2 id="yeast-hefe">Yeast (Hefe)&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Yeast&lt;/th>
+ &lt;th style="text-align: left">Amount&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Lallemand Farmhouse&lt;/td>
+ &lt;td style="text-align: left">8g&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="water">Water&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Purpose&lt;/th>
+ &lt;th style="text-align: left">Amount&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Hauptguss&lt;/td>
+ &lt;td style="text-align: left">6.3L&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Nachguss&lt;/td>
+ &lt;td style="text-align: left">5.7L&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h1 id="process">Process&lt;/h1>
+&lt;h2 id="maischen">Maischen&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 55°C&lt;/p></description></item><item><title>Wit</title><link>https://beer.blog.castrillon.ch/recipes/wit/</link><pubDate>Thu, 09 Jul 2026 19:21:13 +0200</pubDate><guid>https://beer.blog.castrillon.ch/recipes/wit/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
 &lt;ul>
 &lt;li>&lt;strong>Style:&lt;/strong> Belgian Witbier&lt;/li>
 &lt;li>&lt;strong>Target Volume:&lt;/strong> 3L&lt;/li>
