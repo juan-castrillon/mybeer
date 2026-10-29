@@ -139,7 +139,7 @@ Proceso de lautern un poco rapido en comparacion (40min), tambien olvide devolve
 ### Secondary Fermentation (Nachgärung)
 
 - **Start:** 19.07.2026
-- **Duration in warm place:** ? days at °C
+- **Duration in warm place:** 7 days at 24°C
 - **Storing Temperature:** 6 °C
 - **Duration until ready to drink:** 30 days
 
