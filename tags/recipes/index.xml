@@ -1,4 +1,121 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recipes on</title><link>https://beer.blog.castrillon.ch/tags/recipes/</link><description>Recent content in Recipes on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 25 Oct 2026 10:20:18 +0100</lastBuildDate><atom:link href="https://beer.blog.castrillon.ch/tags/recipes/index.xml" rel="self" type="application/rss+xml"/><item><title>Fruit Saison 2</title><link>https://beer.blog.castrillon.ch/recipes/fruit_saison2/</link><pubDate>Sun, 25 Oct 2026 10:20:18 +0100</pubDate><guid>https://beer.blog.castrillon.ch/recipes/fruit_saison2/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recipes on</title><link>https://beer.blog.castrillon.ch/tags/recipes/</link><description>Recent content in Recipes on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 25 Oct 2026 18:34:25 +0100</lastBuildDate><atom:link href="https://beer.blog.castrillon.ch/tags/recipes/index.xml" rel="self" type="application/rss+xml"/><item><title>Enkel/Single</title><link>https://beer.blog.castrillon.ch/recipes/singel/</link><pubDate>Sun, 25 Oct 2026 18:34:25 +0100</pubDate><guid>https://beer.blog.castrillon.ch/recipes/singel/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
+&lt;ul>
+&lt;li>&lt;strong>Style:&lt;/strong> Belgian Enkel (Single)&lt;/li>
+&lt;li>&lt;strong>Target Volume:&lt;/strong> 3L&lt;/li>
+&lt;li>&lt;strong>Actual Volume:&lt;/strong> 3.1L&lt;/li>
+&lt;li>&lt;strong>Initial Stammwürze:&lt;/strong> 1.050&lt;/li>
+&lt;li>&lt;strong>Target Stammwürze:&lt;/strong> 1.050&lt;/li>
+&lt;li>&lt;strong>Final Stammwürze:&lt;/strong> 1.010&lt;/li>
+&lt;li>&lt;strong>Alcohol:&lt;/strong> 5.5%&lt;/li>
+&lt;/ul>
+&lt;h1 id="ingredients">Ingredients&lt;/h1>
+&lt;h2 id="malts">Malts&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Malt&lt;/th>
+ &lt;th style="text-align: left">Amount&lt;/th>
+ &lt;th style="text-align: left">Percent&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Pilsner Malz&lt;/td>
+ &lt;td style="text-align: left">450g&lt;/td>
+ &lt;td style="text-align: left">60%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Pale Ale Malz&lt;/td>
+ &lt;td style="text-align: left">250g&lt;/td>
+ &lt;td style="text-align: left">33%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Aromatic Malz&lt;/td>
+ &lt;td style="text-align: left">50g&lt;/td>
+ &lt;td style="text-align: left">7%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="hops">Hops&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Hop&lt;/th>
+ &lt;th style="text-align: left">Amount&lt;/th>
+ &lt;th style="text-align: left">Time&lt;/th>
+ &lt;th style="text-align: left">Alpha&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Challenger&lt;/td>
+ &lt;td style="text-align: left">2g&lt;/td>
+ &lt;td style="text-align: left">60min&lt;/td>
+ &lt;td style="text-align: left">7.1%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Saazer&lt;/td>
+ &lt;td style="text-align: left">4g&lt;/td>
+ &lt;td style="text-align: left">30min&lt;/td>
+ &lt;td style="text-align: left">3.5%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Challenger&lt;/td>
+ &lt;td style="text-align: left">1g&lt;/td>
+ &lt;td style="text-align: left">5min&lt;/td>
+ &lt;td style="text-align: left">7.1%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Saazer&lt;/td>
+ &lt;td style="text-align: left">2g&lt;/td>
+ &lt;td style="text-align: left">30min&lt;/td>
+ &lt;td style="text-align: left">3.5%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="yeast-hefe">Yeast (Hefe)&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Yeast&lt;/th>
+ &lt;th style="text-align: left">Amount&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Lalbrew Abbaye&lt;/td>
+ &lt;td style="text-align: left">3.5g&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="water">Water&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Purpose&lt;/th>
+ &lt;th style="text-align: left">Amount&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Hauptguss&lt;/td>
+ &lt;td style="text-align: left">3.6L&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Nachguss&lt;/td>
+ &lt;td style="text-align: left">3.5L&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;ul>
+&lt;li>Agregue 1L mas al hautpguss que lo calculado con brureka ya que me parecia muy espeso&lt;/li>
+&lt;li>Tambien despues del lautern via el liquido muy poquito. Sabiendo de experiencias anteriores que mucho se evapora decidi agregar un litro mas al nachguss tambien para compensar&lt;/li>
+&lt;/ul>
+&lt;h1 id="process">Process&lt;/h1>
+&lt;h2 id="maischen">Maischen&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 55°C (Cae a 53 con malz)&lt;/p></description></item><item><title>Fruit Saison 2</title><link>https://beer.blog.castrillon.ch/recipes/fruit_saison2/</link><pubDate>Sun, 25 Oct 2026 10:20:18 +0100</pubDate><guid>https://beer.blog.castrillon.ch/recipes/fruit_saison2/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
 &lt;ul>
 &lt;li>&lt;strong>Style:&lt;/strong> Belgian Saison&lt;/li>
 &lt;li>&lt;strong>Target Volume:&lt;/strong> 8L&lt;/li>
