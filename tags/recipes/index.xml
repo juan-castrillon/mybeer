@@ -1,4 +1,131 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recipes on</title><link>https://beer.blog.castrillon.ch/tags/recipes/</link><description>Recent content in Recipes on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 25 Oct 2026 18:34:25 +0100</lastBuildDate><atom:link href="https://beer.blog.castrillon.ch/tags/recipes/index.xml" rel="self" type="application/rss+xml"/><item><title>Enkel/Single</title><link>https://beer.blog.castrillon.ch/recipes/singel/</link><pubDate>Sun, 25 Oct 2026 18:34:25 +0100</pubDate><guid>https://beer.blog.castrillon.ch/recipes/singel/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Recipes on</title><link>https://beer.blog.castrillon.ch/tags/recipes/</link><description>Recent content in Recipes on</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 06 Nov 2026 17:57:38 +0100</lastBuildDate><atom:link href="https://beer.blog.castrillon.ch/tags/recipes/index.xml" rel="self" type="application/rss+xml"/><item><title>Milkshake IPA</title><link>https://beer.blog.castrillon.ch/recipes/milkshake/</link><pubDate>Fri, 06 Nov 2026 17:57:38 +0100</pubDate><guid>https://beer.blog.castrillon.ch/recipes/milkshake/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
+&lt;ul>
+&lt;li>&lt;strong>Style:&lt;/strong> Milkshake IPA&lt;/li>
+&lt;li>&lt;strong>Target Volume:&lt;/strong> 3L&lt;/li>
+&lt;li>&lt;strong>Actual Volume:&lt;/strong> 2.5L&lt;/li>
+&lt;li>&lt;strong>Initial Stammwürze:&lt;/strong> 1.078&lt;/li>
+&lt;li>&lt;strong>Target Stammwürze:&lt;/strong> 1.081&lt;/li>
+&lt;li>&lt;strong>Final Stammwürze:&lt;/strong> 1.023 (1.014 no lactose)&lt;/li>
+&lt;li>&lt;strong>Alcohol:&lt;/strong> 7.5%&lt;/li>
+&lt;/ul>
+&lt;h1 id="ingredients">Ingredients&lt;/h1>
+&lt;h2 id="malts">Malts&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Malt&lt;/th>
+ &lt;th style="text-align: left">Amount&lt;/th>
+ &lt;th style="text-align: left">Percent&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Pale Ale Malz&lt;/td>
+ &lt;td style="text-align: left">670g&lt;/td>
+ &lt;td style="text-align: left">69.1%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Weizenmalz hell&lt;/td>
+ &lt;td style="text-align: left">150g&lt;/td>
+ &lt;td style="text-align: left">15.5%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Carahell&lt;/td>
+ &lt;td style="text-align: left">75g&lt;/td>
+ &lt;td style="text-align: left">7.7%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Haferflocken&lt;/td>
+ &lt;td style="text-align: left">75g&lt;/td>
+ &lt;td style="text-align: left">7.7%&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="hops">Hops&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Hop&lt;/th>
+ &lt;th style="text-align: left">Amount&lt;/th>
+ &lt;th style="text-align: left">Time&lt;/th>
+ &lt;th style="text-align: left">Alpha&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Ariana&lt;/td>
+ &lt;td style="text-align: left">5g&lt;/td>
+ &lt;td style="text-align: left">70min (Vorderwürze)&lt;/td>
+ &lt;td style="text-align: left">8.5%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Lactose&lt;/td>
+ &lt;td style="text-align: left">79g&lt;/td>
+ &lt;td style="text-align: left">10 min&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Ariana&lt;/td>
+ &lt;td style="text-align: left">5g&lt;/td>
+ &lt;td style="text-align: left">0min (Whirpool 90C)&lt;/td>
+ &lt;td style="text-align: left">8.5%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Ariana&lt;/td>
+ &lt;td style="text-align: left">11g&lt;/td>
+ &lt;td style="text-align: left">6 days (Dry hop)&lt;/td>
+ &lt;td style="text-align: left">8.5%&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Vanilla&lt;/td>
+ &lt;td style="text-align: left">1/3 schoten&lt;/td>
+ &lt;td style="text-align: left">6 days (Dry hop)&lt;/td>
+ &lt;td style="text-align: left">-&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="yeast-hefe">Yeast (Hefe)&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Yeast&lt;/th>
+ &lt;th style="text-align: left">Amount&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Safale US-05&lt;/td>
+ &lt;td style="text-align: left">3g&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="water">Water&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Purpose&lt;/th>
+ &lt;th style="text-align: left">Amount&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Hauptguss&lt;/td>
+ &lt;td style="text-align: left">3.8 L&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Nachguss&lt;/td>
+ &lt;td style="text-align: left">2 L&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;ul>
+&lt;li>Increased the nachguss from the recipe given that it was a very small batch and i need to account for high evaporation.&lt;/li>
+&lt;/ul>
+&lt;h1 id="process">Process&lt;/h1>
+&lt;h2 id="maischen">Maischen&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Einmaischen Temperature:&lt;/strong> 67°C&lt;/p></description></item><item><title>Enkel/Single</title><link>https://beer.blog.castrillon.ch/recipes/singel/</link><pubDate>Sun, 25 Oct 2026 18:34:25 +0100</pubDate><guid>https://beer.blog.castrillon.ch/recipes/singel/</guid><description>&lt;h1 id="summary">Summary&lt;/h1>
 &lt;ul>
 &lt;li>&lt;strong>Style:&lt;/strong> Belgian Enkel (Single)&lt;/li>
 &lt;li>&lt;strong>Target Volume:&lt;/strong> 3L&lt;/li>
