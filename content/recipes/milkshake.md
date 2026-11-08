@@ -100,7 +100,7 @@ tags: ["recipes"]
 
 - Dado los experimentos pasaods con el mini anlage, opte por sumergir el recipiente en uno con agua fria y dejar agua fria corriendo, intentando revolver el liquido a dentro de vez en cuando. Es una mejora significativa a la vez anterior y casi tan rapido como el kuhler en el anlage grande. 
 
-![mini_cooling](/img/recipes/mini_cooling.png)
+![mini_cooling](/img/recipes/mini_cooling.jpg)
 
 - Me asegure de que al caer del filtro, el würze se oxigenara lo más posible. 
 - Después de este proceso, obtuve 1.9L con 1.109 de densidad. Agregue agua asi:
