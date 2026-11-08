@@ -137,6 +137,16 @@ tags: ["recipes"]
 
 # Notes
 
+La cerveza final me dejo las siguientes impresiones:
+
+- Color: Dorado, bastante claro si no se sirve el sedimento. Una espuma blanca, feinporig y estable (ver nota de carbonacion abajo)
+- Olor: Muy predominante el olor a levadura, incluso llegando a parecerse a una sour bier. Tambien recuerda al olor de una weizen pero sin las notas de banana. 
+- Sabor: Cuando el gas funciono, una cerveza muy rica, refrescante y facil de tomar. Notas de levadura belga y buen cuerpo. 
+
+En general me parace una muy rica cerveza normal. La presencia de levadura belga es agradable pero no protagonista en el sabor. Es como algo entre una belgian blond y una pils. 
+
+En 5 de las 6 botellas, a cerveza salio con muy poquito gas. Solo en una de las botellas el gas funciono bien. Es algo que ya es repetido despues de la saison (tambien embotellada en las botellas de 0.5). Es importante verificar las botellas antes de volverlas a usar ya que la principal teoria es que ya no estan selladas. 
+
 # Statistics
 
 - **Sudhausausbeute:** 62.56%
